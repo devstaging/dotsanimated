@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  background: hsl(240, 56%, 98%);
+}
+
+:root {
+--blue-color-1: #FFFFFF;
+}
+
+.bg-blue-1 {
+  background: var(--blue-color-1);
+}
