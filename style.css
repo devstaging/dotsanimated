@@ -4,11 +4,11 @@ body {
   align-items: center;
   min-height: 100vh;
   margin: 0;
-  background: hsl(240, 56%, 98%);
+  background: #f7f7fd;
 }
 
 :root {
---blue-color-1: #FFFFFF;
+  --blue-color-1: #FFFFFF;
 }
 
 .bg-blue-1 {
