@@ -329,7 +329,7 @@ class GridWave extends Base {
             row: 128,
             col: 128,
             size: 0.1,
-            speed: 2,
+            speed: 1,
             rate: 6
         };
     }
